@@ -1,0 +1,12 @@
+package ram_pkg;
+  `include "defines.sv"
+  `include "transaction.sv"
+  `include "generator.sv"
+  `include "driver.sv"
+  `include "monitor.sv"
+  `include "reference.sv"
+  `include "scoreboard.sv"
+  `include "environment.sv"
+  `include "test.sv"
+endpackage
+
